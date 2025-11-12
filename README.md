@@ -174,6 +174,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Specials](https://github.com/leandrolcampos/specials) - Special functions with hardware acceleration.
 * [NuMojo](https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo) - A library for numerical computing in Mojo 🔥 similar to NumPy, SciPy in Python.
 * [DeciMojo](https://github.com/forfudan/decimojo) - An arbitrary-precision decimal and integer mathematics library for Mojo, supporting `BigInt` and `BigDecimal` types.
+* [SciJo](https://github.com/shivasankarka/SciJo) - A high-performance scientific computing library for Mojo, offering SciPy-like functionality.
 
 ### System
 
@@ -187,7 +188,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Image Processing
 
 * [Jpeg-Decoder](https://github.com/taalhaataahir0102/Jpeg-Decoder) - A compact JPEG image decoder implemented in Mojo🔥.
-* [mimage](https://github.com/fnands/mimage) - An image decoding library implemented in Mojo 🔥. 
+* [mimage](https://github.com/fnands/mimage) - An image decoding library implemented in Mojo 🔥.
 
 ## 📚 Resources<a id='resources'></a>
 
