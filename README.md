@@ -179,6 +179,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### System
 
 * [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
+* [mojo-dotenv](https://github.com/databooth/mojo-dotenv) - Load environment variables from `.env` files. 98%+ compatible with python-dotenv. Features variable expansion, multiline values, escape sequences, and auto-discovery. 42 comprehensive tests.
 
 ### Web
 
