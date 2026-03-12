@@ -135,6 +135,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [prism](https://github.com/thatstoasty/prism) - Mojo CLI Library modeled after Cobra.
 * [mog](https://github.com/thatstoasty/mog) - Style definitions for nice terminal layouts.
+* [ArgMojo](https://github.com/forfudan/argmojo) - A command-line argument parser library for Mojo, inspired by Python's `argparse`, Rust's `clap`, and Go's `cobra`, and other popular libraries.
 
 ### Date & Time
 
