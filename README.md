@@ -241,6 +241,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Chris Lattner at AI Chat](https://podcasters.spotify.com/pod/show/aichat/episodes/Modular-CEO-Chris-Lattner-on-Raising-100M-to-Fix-AI-Infrastructure-for-Developers-e298f7r/a-aabm4a2) - Modular CEO on raising 100M to fix AI infrastructure for developers.
 * [Chris Lattner at StackOverflow](https://stackoverflow.blog/2023/09/21/mojo-the-usability-of-python-with-the-performance-of-c/) - Mojo: The usability of Python with the performance of C.
 * [Chris Lattner at Syntax](https://syntax.fm/show/679/creator-of-swift-tesla-autopilot-and-tensorflow-new-ai-language-mojo-with-chris-lattner) - Mojo and AI.
+* [Chris Lattner at The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/from-swift-to-mojo-and-high-performance) - From Swift to Mojo and high-performance AI.
 
 ### Interviews
 
