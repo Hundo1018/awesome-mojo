@@ -177,6 +177,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Decimo](https://github.com/forfudan/decimo) - (formerly DeciMojo) An arbitrary-precision integer and decimal library for Mojo, inspired by Python's ``int`` and ``Decimal``.
 * [SciJo](https://github.com/shivasankarka/SciJo) - A high-performance scientific computing library for Mojo, offering SciPy-like functionality.
 * [StaMojo](https://github.com/mojomath/stamojo) - A statistical computing library for Mojo, inspired by ``scipy.stats`` and ``statsmodels`` in Python.
+* [dsplib-mojo](https://github.com/electricalgorithm/dsplib-mojo) - A digital signal processing library for Mojo, aiming to be an educational resource.
 
 ### System
 
