@@ -135,6 +135,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [prism](https://github.com/thatstoasty/prism) - Mojo CLI Library modeled after Cobra.
 * [mog](https://github.com/thatstoasty/mog) - Style definitions for nice terminal layouts.
+* [ArgMojo](https://github.com/forfudan/argmojo) - A command-line argument parser library for Mojo, inspired by Python's `argparse`, Rust's `clap`, and Go's `cobra`, and other popular libraries.
 
 ### Date & Time
 
@@ -173,8 +174,9 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Infrared](https://github.com/helehex/infrared) - Geometric Algebra for Mojo🔥.
 * [Specials](https://github.com/leandrolcampos/specials) - Special functions with hardware acceleration.
 * [NuMojo](https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo) - A library for numerical computing in Mojo 🔥 similar to NumPy, SciPy in Python.
-* [DeciMojo](https://github.com/forfudan/decimojo) - An arbitrary-precision decimal and integer mathematics library for Mojo, supporting `BigInt` and `BigDecimal` types.
+* [Decimo](https://github.com/forfudan/decimo) - (formerly DeciMojo) An arbitrary-precision integer and decimal library for Mojo, inspired by Python's ``int`` and ``Decimal``.
 * [SciJo](https://github.com/shivasankarka/SciJo) - A high-performance scientific computing library for Mojo, offering SciPy-like functionality.
+* [StaMojo](https://github.com/mojomath/stamojo) - A statistical computing library for Mojo, inspired by ``scipy.stats`` and ``statsmodels`` in Python.
 * [dsplib-mojo](https://github.com/electricalgorithm/dsplib-mojo) - A digital signal processing library for Mojo, aiming to be an educational resource.
 
 ### System
@@ -242,6 +244,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Chris Lattner at AI Chat](https://podcasters.spotify.com/pod/show/aichat/episodes/Modular-CEO-Chris-Lattner-on-Raising-100M-to-Fix-AI-Infrastructure-for-Developers-e298f7r/a-aabm4a2) - Modular CEO on raising 100M to fix AI infrastructure for developers.
 * [Chris Lattner at StackOverflow](https://stackoverflow.blog/2023/09/21/mojo-the-usability-of-python-with-the-performance-of-c/) - Mojo: The usability of Python with the performance of C.
 * [Chris Lattner at Syntax](https://syntax.fm/show/679/creator-of-swift-tesla-autopilot-and-tensorflow-new-ai-language-mojo-with-chris-lattner) - Mojo and AI.
+* [Chris Lattner at The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/from-swift-to-mojo-and-high-performance) - From Swift to Mojo and high-performance AI.
 
 ### Interviews
 
